@@ -1,6 +1,6 @@
 # このソフトウェアについて
 
-　[require.js](http://requirejs.org/)のプラグインdomReadyでDOM読込後に実行する方法。[demo](https://ytyaru.github.io/JS.require.plugin.domReady.20180811100000)
+　[require.js](http://requirejs.org/)のプラグイン[domReady](https://requirejs.org/docs/download.html#domReady)でDOM読込後に実行する方法。[demo](https://ytyaru.github.io/JS.require.plugin.domReady.20180811100000)
 
 # コード
 
