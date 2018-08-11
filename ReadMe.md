@@ -34,8 +34,7 @@ require(['require.domReady'], function(domReady) {
 Library|License|Copyright
 -------|-------|---------
 [require](http://requirejs.org/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/requirejs/blob/master/LICENSE)
-[require domReady](https://github.com/requirejs/domReady)|[MIT](https://opensource.org/licenses/MIT)|[
-Copyright jQuery Foundation and other contributors](https://github.com/requirejs/domReady/blob/master/LICENSE)
+[require domReady](https://github.com/requirejs/domReady)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/domReady/blob/master/LICENSE)
 [jQuery](https://jquery.com/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright JS Foundation and other contributors](https://jquery.org/license/)
 [JsonToHtmlTable](https://github.com/c-cho/JsonToHtmlTable)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (c) 2017 CHO](https://github.com/c-cho/JsonToHtmlTable/blob/master/LICENSE)
 
